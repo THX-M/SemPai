@@ -15,7 +15,7 @@
     "gulp": "^4.0.2",
     "gulp-webp": "^4.0.1",
     "image-to-base64": "^2.1.1",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "node-gtts": "^2.0.2",
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2",
